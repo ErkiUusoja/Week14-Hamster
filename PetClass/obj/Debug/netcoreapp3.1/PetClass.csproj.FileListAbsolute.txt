@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.exe
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.deps.json
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.dll
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\bin\Debug\netcoreapp3.1\PetClass.pdb
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.dll
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.pdb
+C:\Users\opilane\source\repos\TITpe21\PetClass\PetClass\obj\Debug\netcoreapp3.1\PetClass.genruntimeconfig.cache
